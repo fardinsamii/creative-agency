@@ -178,6 +178,13 @@ header nav ul li a{
 #plans .plan{
     padding: 40px;
 }
+#plans .plan img{
+    margin-bottom: 20px;
+}
+#plans .plan h3{
+    margin-bottom: 9px;
+    color: #262A4E;
+}
 /* plan ends */
 /* portfolio starts */
 #portfolio{
